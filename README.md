@@ -2,7 +2,7 @@
 <a href="https://imagetolink.com/ib/sWuPkVkjwa"><img src="https://imagetolink.com/ib/sWuPkVkjwa.png" alt="sWuPkVkjwa"/></a>
 <h1 align="center">Hi 👋, I'm Dnyanesh Adkar</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/man-coder-programming-on-computer-6353865-5264782.png" align="right" alt="Coding" width="400" </img>
+
 
 
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java Projects**
 
-- 💬 Ask me about **Java, Python, C, C++, MYSQL,**
+- 💬  **Java, Python, C, C++, MYSQL**
 
 - 📫 How to reach me **dnyaneshadkar@gmail.com**
 
