@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://tse2.mm.bing.net/th/id/OIP.mOC0UarwU3JpPexv5G1sWQHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Java Programmer Icon" width="120"/>
 
-  <h1>Dnyanesh Adkar | Computer Engineer 🇮🇳</h1>
-  <h3>Focusing on Robust Backend Systems and Cloud-Native Development</h3>
+  <h1>Dnyanesh Adkar | Computer Engineer</h1>
+  <h3>Focusing on Robust Backend Systems </h3>
 </div>
 
 ---
@@ -15,25 +15,23 @@ I leverage the Java ecosystem to build robust, scalable, and high-performance ap
   <thead>
     <tr>
       <th width="30%">Focus</th>
-      <th width="35%">Tech Stack</th>
+      <th width="35%"> Tech Stack</th>
       <th width="35%">Key Skills & DevOps</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>Backend Logic</b></td>
-      <td>Core Java, Spring Boot, Kotlin</td>
-      <td>RESTful API Design, Microservices</td>
+      <td>Core Java, Spring Boot</td>
     </tr>
     <tr>
       <td><b>Data & Persistence</b></td>
-      <td>MySQL, MSSQL, SQLite</td>
-      <td>Database Design, Optimization, JPA/Hibernate</td>
+      <td>MySQL, MSSQL</td>
+      <td>Database </td>
     </tr>
     <tr>
       <td><b>Cloud & DevOps</b></td>
-      <td>Docker, Kubernetes, Azure, GCP</td>
-      <td>CI/CD Pipelines, Containerization, Cloud Deployment</td>
+      <td> Cloud Deployment</td>
     </tr>
   </tbody>
 </table>
@@ -100,15 +98,15 @@ My foundational skillset spans core programming languages and database managemen
 <table align="center">
     <tr>
         <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshadkar9696&show_icons=true&locale=en&theme=dark&hide_border=true&v=1" alt="Dnyanesh's GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshadkar9696&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Dnyanesh's GitHub Stats" />
         </td>
         <td align="center">
-            ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyaneshadkar9696 &theme=radical)
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dnyaneshadkar9696&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"  />
         </td>
     </tr>
     <tr>
         <td align="center" colspan="2">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshadkar9696&theme=dark&hide_border=true&v=1" alt="GitHub Streak" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshadkar9696&theme=dark&hide_border=true" alt="GitHub Streak" />
         </td>
     </tr>
 </table>
