@@ -20,19 +20,26 @@ I leverage the Java ecosystem to build robust, scalable, and high-performance ap
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b>Backend Logic</b></td>
-      <td>Core Java, Spring Boot</td>
-      <td>RESTful API Design, Microservices</td>
-    </tr>
-    <tr>
-      <td><b>Database & Persistence</b></td>
-      <td>MySQL/JPA</td>
-      <td>Database Design, Optimization</td>
-    </tr>
-    <tr>
-      
-    </tr>
+   <tr>
+      <td><b>Programming & Backend</b></td>
+      <td>Core Java, Spring Boot, Python, C, C++</td>
+      <td>RESTful API Design, Microservices, Problem Solving</td>
+    </tr>
+    <tr>
+      <td><b>Database & Persistence</b></td>
+      <td>MySQL, JPA (Hibernate/Spring Data)</td>
+      <td>Database Design, Optimization, Analytical Skills</td>
+    </tr>
+    <tr>
+      <td><b>Frontend Essentials</b></td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>Strong Communication, Critical Thinking</td>
+    </tr>
+    <tr>
+      <td><b>Cloud & DevOps</b></td>
+      <td>Docker, Kubernetes (K8s), Azure, Jenkins, GCP</td>
+      <td>CI/CD, Containerization, Cloud Deployment</td>
+    </tr>
   </tbody>
 </table>
 
@@ -101,6 +108,4 @@ My foundational skillset spans core programming languages and database managemen
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshadkar9696&theme=dark&hide_border=true" alt="GitHub Streak" />
         </td>
     </tr>
-</table>  ### this was my Read me   #### in above read me file include Programming Languages:   Java, Python, C, C++.
-● Database:  MySQL
-● Frontend:  HTML , CSS, Java Script. as tech stack and make changes as per it
+</table>  
