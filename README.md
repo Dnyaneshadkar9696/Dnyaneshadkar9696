@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://tse2.mm.bing.net/th/id/OIP.mOC0UarwU3JpPexv5G1sWQHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Java Programmer Icon" width="120"/>
 
-  <h1>Dnyanesh Adkar | Computer Engineer 🇮🇳</h1>
-  <h3>Focusing on Robust Backend Systems and Cloud-Native Development</h3>
+  <h1>Dnyanesh Adkar | Computer Engineer</h1>
+  <h3>Focusing on Robust Backend Systems </h3>
 </div>
 
 ---
@@ -15,25 +15,23 @@ I leverage the Java ecosystem to build robust, scalable, and high-performance ap
   <thead>
     <tr>
       <th width="30%">Focus</th>
-      <th width="35%">Dnyanesh Adkar Tech Stack</th>
+      <th width="35%"> Tech Stack</th>
       <th width="35%">Key Skills & DevOps</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>Backend Logic</b></td>
-      <td>Core Java, Spring Boot, J2EE/Jakarta EE, Kotlin</td>
-      <td>RESTful API Design, Microservices</td>
+      <td>Core Java, Spring Boot</td>
     </tr>
     <tr>
       <td><b>Data & Persistence</b></td>
-      <td>MySQL, MSSQL, SQLite, Hibernate/JPA</td>
-      <td>Database Design, Optimization</td>
+      <td>MySQL, MSSQL</td>
+      <td>Database </td>
     </tr>
     <tr>
       <td><b>Cloud & DevOps</b></td>
-      <td>Docker, Kubernetes (K8s), Azure, Jenkins, GCP</td>
-      <td>CI/CD, Containerization, Cloud Deployment</td>
+      <td> Cloud Deployment</td>
     </tr>
   </tbody>
 </table>
