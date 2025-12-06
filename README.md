@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://tse2.mm.bing.net/th/id/OIP.mOC0UarwU3JpPexv5G1sWQHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Java Programmer Icon" width="120"/>
 
-  <h1>Dnyanesh Adkar | Computer Engineer 🇮🇳</h1>
-  <h3>Focusing on Robust Backend Systems and Cloud-Native Development</h3>
+  <h1>Dnyanesh Adkar | Computer Engineer</h1>
+  <h3>Focusing on Robust Backend Systems</h3>
 </div>
 
 ---
@@ -99,10 +99,7 @@ My foundational skillset spans core programming languages and database managemen
 
 <table align="center">
     <tr>
-        <td align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnyaeshadkar9696&theme=radical)
-        </td>
-        <td align="center">
+       
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshadkar9696&theme=dark&hide_border=true" alt="GitHub Streak" />
         </td>
     </tr>
