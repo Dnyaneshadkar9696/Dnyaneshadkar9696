@@ -1,39 +1,34 @@
 <div align="center">
   <img src="https://tse2.mm.bing.net/th/id/OIP.mOC0UarwU3JpPexv5G1sWQHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Java Programmer Icon" width="120"/>
 
-  <h1>Dnyanesh Adkar | Computer Engineer</h1>
-  <h3>Focusing on Robust Backend Systems</h3>
+  <h1>Dnyanesh Adkar | Computer Engineer 🇮🇳</h1>
+  <h3>Focusing on Robust Backend Systems and Cloud-Native Development</h3>
 </div>
 
 ---
 
-## 💻 Core Competency: The Java Ecosystem
+## 💻 Core Competency: Enterprise Java & Backend Systems
 
-I leverage the Java ecosystem to build robust, scalable, and high-performance applications.
+I leverage the **Java Ecosystem** to build robust, scalable, and high-performance applications, with a focus on modern software architecture.
 
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th width="30%">Focus</th>
-      <th width="35%">Dnyanesh Adkar Tech Stack</th>
-      <th width="35%">Key Skills & DevOps</th>
+      <th width="30%">Focus Area</th>
+      <th width="35%">Key Frameworks & Tools</th>
+      <th width="35%">Professional Skills</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Backend Logic</b></td>
-      <td>Core Java, Spring Boot, J2EE/Jakarta EE, Kotlin</td>
-      <td>RESTful API Design, Microservices</td>
-    </tr>
-    <tr>
-      <td><b>Data & Persistence</b></td>
-      <td>MySQL, MSSQL, SQLite, Hibernate/JPA</td>
-      <td>Database Design, Optimization</td>
+      <td><b>Backend Development</b></td>
+      <td><b>Spring Boot</b>, Kotlin, J2EE/Jakarta EE, Hibernate/JPA</td>
+      <td>RESTful API Design, Microservices, System Architecture</td>
     </tr>
     <tr>
       <td><b>Cloud & DevOps</b></td>
-      <td>Docker, Kubernetes (K8s), Azure, Jenkins, GCP</td>
-      <td>CI/CD, Containerization, Cloud Deployment</td>
+      <td>Docker, Kubernetes (K8s), Jenkins, Azure, GCP</td>
+      <td>CI/CD Pipelines, Containerization, Cloud Deployment</td>
     </tr>
   </tbody>
 </table>
@@ -45,38 +40,28 @@ I leverage the Java ecosystem to build robust, scalable, and high-performance ap
 
 ---
 
-## 🛠️ Programming & Database Foundations
+## 🛠️ Technical Stack & Foundations
 
-My foundational skillset spans core programming languages and database management systems crucial for enterprise development.
+My foundational skillset is built on a strong base of core programming and database management.
 
 <div align="center">
-  <h4>Programming & Foundations</h4>
-  <p> 
+  <h4>Programming Languages</h4>
+  <p>
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/> </a> 
-      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45"/> </a>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> </a> 
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/> </a> 
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/> </a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/> </a>
+      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45"/> </a>
   </p>
   
-  <h4>Database & Cloud Infrastructure</h4>
+  <h4>Database & Frontend Essentials</h4>
   <p> 
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> </a> 
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="45" height="45"/> </a> 
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="45"/> </a> 
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/> </a> 
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45"/> </a> 
-      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45"/> </a> 
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="45" height="45"/> </a> 
-  </p>
-  
-  <h4>Web Development (Familiarity)</h4>
-  <p> 
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/> </a> 
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="45" height="45"/> </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/> </a> 
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/> </a> 
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/> </a>
+      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> </a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="45" height="45"/> </a> 
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/> </a>
   </p>
 </div>
 
@@ -99,8 +84,16 @@ My foundational skillset spans core programming languages and database managemen
 
 <table align="center">
     <tr>
-       
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshadkar9696&theme=dark&hide_border=true" alt="GitHub Streak" />
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshadkar9696&show_icons=true&locale=en&theme=dark&hide_border=true&v=2" alt="Dnyanesh's GitHub Stats" />
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dnyaneshadkar9696&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&v=2" alt="Top Languages" />
         </td>
     </tr>
-</table>  ### this was my Read me
+    <tr>
+        <td align="center" colspan="2">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshadkar9696&theme=dark&hide_border=true&v=2" alt="GitHub Streak" />
+        </td>
+    </tr>
+</table>
