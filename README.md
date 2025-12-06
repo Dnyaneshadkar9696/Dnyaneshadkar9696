@@ -98,10 +98,10 @@ My foundational skillset spans core programming languages and database managemen
 <table align="center">
     <tr>
         <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=dnyaneshadkar9696&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Dnyanesh's GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshadkar9696&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Dnyanesh's GitHub Stats" />
         </td>
         <td align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshadkar9696&theme=dark&hide_border=true" alt="GitHub Streak" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshadkar9696&theme=dark&hide_border=true" alt="GitHub Streak" />
         </td>
     </tr>
 </table>
