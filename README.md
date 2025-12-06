@@ -103,7 +103,7 @@ My foundational skillset spans core programming languages and database managemen
             <img src="https://github-readme-stats.vercel.app/api?username=Dnyaneshadkar9696&show_icons=true&locale=en&theme=dark&hide_border=true&v=1" alt="Dnyanesh's GitHub Stats" />
         </td>
         <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dnyaneshadkar9696&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&v=1" alt="Top Languages" />
+            <img src="https://cdn-learn.adafruit.com/assets/assets/000/112/627/medium800/programming_GFP_GItHub_Readme_Stats_header.png?1656278941" alt="Top Languages" />
         </td>
     </tr>
     <tr>
