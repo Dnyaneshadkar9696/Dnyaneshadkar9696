@@ -1,7 +1,7 @@
  <div align="center">
   <img src="https://tse2.mm.bing.net/th/id/OIP.mOC0UarwU3JpPexv5G1sWQHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Java Programmer Icon" width="120"/>
 
-  <h1>Dnyanesh Adkar | Computer Engineer</h1>
+  <h1>Dnyanesh Adkar </h1>
   <h3>Focusing on Robust Backend Systems</h3>
 </div>
 
