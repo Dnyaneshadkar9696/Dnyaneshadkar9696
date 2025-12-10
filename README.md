@@ -35,11 +35,7 @@ I leverage the Java ecosystem to build robust, scalable, and high-performance ap
       <td>HTML, CSS, JavaScript</td>
       <td>Strong Communication, Critical Thinking</td>
     </tr>
-    <tr>
-      <td><b>Cloud & DevOps</b></td>
-      <td>Docker, Kubernetes (K8s), Azure, Jenkins, GCP</td>
-      <td>CI/CD, Containerization, Cloud Deployment</td>
-    </tr>
+    
   </tbody>
 </table>
 
