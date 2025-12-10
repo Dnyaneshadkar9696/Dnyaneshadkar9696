@@ -22,12 +22,12 @@ I leverage the Java ecosystem to build robust, scalable, and high-performance ap
   <tbody>
    <tr>
       <td><b>Programming & Backend</b></td>
-      <td>Core Java, Spring Boot, Python, C, C++</td>
-      <td>RESTful API Design, Microservices, Problem Solving</td>
+      <td>Core Java, Python, C, C++</td>
+      <td> Problem Solving</td>
     </tr>
     <tr>
       <td><b>Database & Persistence</b></td>
-      <td>MySQL, JPA (Hibernate/Spring Data)</td>
+      <td>MySQL</td>
       <td>Database Design, Optimization, Analytical Skills</td>
     </tr>
     <tr>
