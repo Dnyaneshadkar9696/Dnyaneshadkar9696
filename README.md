@@ -99,9 +99,11 @@ My foundational skillset spans core programming languages and database managemen
 ## 📊 My GitHub Activity
 
 <table align="center">
-    <tr>
-       
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshadkar9696&theme=dark&hide_border=true" alt="GitHub Streak" />
-        </td>
-    </tr>
-</table>  
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=dnyaneshadkar9696&theme=dark&hide_border=true"
+           alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
